@@ -10,7 +10,7 @@ Dosyanın zaman damgasını değiştirerek aşağıdaki durumlar amaçlanır.
 
 ![1](https://github.com/meisterlos/Powershell_Zaman_Damgasi/assets/81145753/3639776f-dced-46b4-ad64-cff10789e23f)
 
-Farzı mesal sisteme yükleyeceğimiz zararlı dosya aşağıdaki görsel olmuş olsun ve dosyanın oluşturulma tarihi 30 aralıktır.
+Farzı misal sisteme yükleyeceğimiz zararlı dosya aşağıdaki görsel olmuş olsun ve dosyanın oluşturulma tarihi 30 aralıktır.
 
 ![2](https://github.com/meisterlos/Powershell_Zaman_Damgasi/assets/81145753/19a28bfd-cc06-42e3-a577-d818acc402de)
 
@@ -19,6 +19,6 @@ Powershell üzerinde dosyamızı çalıştıralım.
 
 ![3](https://github.com/meisterlos/Powershell_Zaman_Damgasi/assets/81145753/98612b74-afd6-479d-a3d1-0d0b26179d66)
 
-Dosyamızı çalıştırdıktan sonra zaman damgasını değiştirmek istediğimiz dosyaya bakalım. Göründüğü üzere dosyanın zaman damgası değişmiş şekildedir.
+Dosyamızı çalıştırdıktan sonra zaman damgasını değiştirmek istediğimiz dosyaya bakalım. Göründüğü üzere dosyanın zaman damgası değişmiş olacaktır.
 
 ![4](https://github.com/meisterlos/Powershell_Zaman_Damgasi/assets/81145753/25ed0177-64f1-4c66-8eb3-86f58a8295fe)
